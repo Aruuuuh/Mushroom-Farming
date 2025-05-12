@@ -1,0 +1,18 @@
+# Core Web App
+streamlit
+
+# Data Handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning / Prediction (for future use or if already used)
+scikit-learn
+xgboost
+
+# Time handling (in case you do time-based resampling or features)
+python-dateutil
